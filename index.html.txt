@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+    <meta charset="UTF-8">
+    <title>أمن و إدارة الشبكات المعلوماتية سبدو</title>
+</head>
+<body>
+    <h1>أهلاً بالعالم!</h1>
+    <p>هذا أول موقع إلكتروني لي.</p>
+</body>
+</html>
